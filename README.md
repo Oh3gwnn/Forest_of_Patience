@@ -12,11 +12,13 @@ Model and Animations - MIXAMO(www.mixamo.com)
 Scripts 카메라 동작 부분 참고 - (wergia.tistory.com/230)
 그 외 참고 - Unity(docs.unity3d.com)
 ```
+
 	* 메이플스토리 끈기의 숲을 모티브로 제작
 	* 모델과 애니메이션 구조 학습 중점
 
 ![img_01](/Images/Slide1.PNG)
 ![img_02](/Images/Slide3.PNG)
+
 **2021-05-05**
 
 * **Wirte Scripts**
