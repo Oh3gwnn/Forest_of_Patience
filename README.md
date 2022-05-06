@@ -18,8 +18,8 @@ Scripts 카메라 동작 부분 참고 - (wergia.tistory.com/230)
 * 메이플스토리 끈기의 숲을 모티브로 제작
 * 모델과 애니메이션 구조 학습 중점
 
-![img_01](/Images/Slide1.PNG)
-![img_02](/Images/Slide3.PNG)
+![img_01](/Images/Slide1.png)
+![img_02](/Images/Slide3.png)
 
 ---
 
@@ -27,12 +27,16 @@ Scripts 카메라 동작 부분 참고 - (wergia.tistory.com/230)
 
 * **Wirte Scripts**
 	* 코드 작성 'Scripts' 참조
+	* BGM, 점프 효과음 등 사운드 삽입
 	* 'TPSCAM.cs' - 캐릭터 컨트롤러 스크립트
 
-![img_03](/Images/Slide2.PNG)
+![img_03](/Images/Slide2.png)
 
 * 'Player_Animation.cs' - 캐릭터 애니메이션 스크립트
-![img_04](/Images/Slide4.PNG)
+
+![img_04](/Images/Slide4.png)
+
+**조작 및 특징 설명**
 
 * 캐릭터 이동 - WASD
 ![img_05](/Images/Move.gif)
