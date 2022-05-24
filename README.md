@@ -39,21 +39,27 @@ Scripts 카메라 동작 부분 참고 - (wergia.tistory.com/230)
 **조작 및 특징 설명**
 
 * 캐릭터 이동 - WASD
+
 ![img_05](/Images/Move.gif)
 
 * 캐릭터 달리기 - Shift
+
 ![img_06](/Images/Run.gif)
 
 * 캐릭터 앉기 - LCtrl
+
 ![img_07](/Images/Sit.gif)
 
 * 캐릭터 점프 - Space bar
+
 ![img_08](/Images/Jump.gif)
 
 * 추락 모션
+
 ![img_09](/Images/fall.gif)
 
 * 카메라 각도 제한 등 설정
+
 ![img_10](/Images/Camera.gif)
 
 ---
